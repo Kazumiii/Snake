@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1389891788 source:d:\projekt\snake\funkcje.cpp
+	<allegro.h>
+	"headers.hpp"
+	<stdlib.h>
+
+1388671513 d:\projekt\snake\headers.hpp
+
+1388680968 source:d:\projekt\snake\main.cpp
+	<allegro.h>
+	"headers.hpp"
+
+1389905959 source:d:\projekt\snake\newgame.cpp
+	<allegro.h>
+	"headers.hpp"
+	<stdlib.h>
+
